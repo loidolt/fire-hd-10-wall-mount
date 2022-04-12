@@ -35,10 +35,10 @@ An existing 3 gang wall mount will be needed for this wall mount, or it could be
 
 ## Usage
 
-The base and cover for this model are split into two pices to allow printing on a standard size printer. Simply glue the two pieces together where they overlap to combine the parts.
+The base and cover for this model are split into two pieces to allow printing on a standard size printer. Simply glue the two pieces together where they overlap to combine the parts.
 
 The cover screws onto the base using M3 screws.
 
 ## Notes
 
-This has been modeled to specifically accomodate the 2021 version of the Fire HD 10.1" tablet.
+This has been modeled to specifically accommodate the 2021 version of the Fire HD 10.1" tablet.
